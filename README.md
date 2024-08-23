@@ -14,19 +14,14 @@ Provides AI-driven drug discovery services to other biotech and pharmaceutical c
 The company Uses 3D spatial graph modeling and advanced molecular simulationx focuses on exploring untapped chemical spaces and novel protein targets
 as well as Accelerates hit identification through lead optimization and candidate selection. Integrates deep learning-based predictive models, molecular simulations, and molecular generative AI
 ## Landscape
-
-* What field is the company in?
-Pharmacutical
-The company specilizes in Deep Learning, Drug Discovery, Artificial Intelligence, and Drug Development
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-Artificial Intelligence (AI) and Machine Learning:
-AI is being used to accelerate drug discovery and development processes
-Applications include identifying drug targets, optimizing drug combinations, and improving manufacturing efficiency
-AI is enhancing data analytics capabilities for better decision-making
-Precision/Personalized Medicine:
-Growing focus on developing treatments tailored to specific patient groups based on genetic profiles
-Increasing number of newly approved drugs are labeled as personalized therapies
-* What are the other major companies in this field?
+Gensis Therapeutics in field of Pharmacutical industry specilizes in Deep Learning, Drug Discovery, Artificial Intelligence, and Drug Development
+The major trends and innovations of this field over the last 5 to 1o years have been Artificial Intelligence (AI) and Machine Learning. AI is being used to accelerate drug discovery and development processes, Applications include identifying drug targets, optimizing drug combinations, and improving manufacturing efficiency as well AI is enhancing data analytics capabilities for better decision-making. There is  been quite big focus on developing treatments tailored to specific patient groups based on genetic profiles.
+The following are few major competitors in the same field.
+  Variational AI : Healthcare company using AI to develop new small-molecule drugs
+  Biomatter (formerly Biomatter Designs) :Synthetic biology company creating new proteins for health and sustainable manufacturing
+  Cradle : Operates at the intersection of biology and AI Offers a platform for biologists to design improved proteins quickly
+  Aqemia : Pharma tech company transforming drug discovery Uses quantum-inspired physics and machine learning to scale drug discovery
+  Insilico Medicine: Clinical-stage biotech company in pharmaceutical R&D Offers novel target discovery, molecular structure generation, and clinical trial analysis
 
 ## Results
 
@@ -35,19 +30,6 @@ There has been huge business impcat and this company is able to generate huge fu
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
   The time taken to discover a drug and its efficiency, accuracy  and usage effectivness
 * How is your company performing relative to competitors in the same field?
-Variational AI
-Healthcare company using AI to develop new small-molecule drugs
-Biomatter (formerly Biomatter Designs)
-Synthetic biology company creating new proteins for health and sustainable manufacturing
-Cradle
-Operates at the intersection of biology and AI
-Offers a platform for biologists to design improved proteins quickly
-Aqemia
-Pharma tech company transforming drug discovery
-Uses quantum-inspired physics and machine learning to scale drug discovery
-Insilico Medicine
-Clinical-stage biotech company in pharmaceutical R&D
-Offers novel target discovery, molecular structure generation, and clinical trial analysis
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
