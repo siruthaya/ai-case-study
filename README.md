@@ -24,14 +24,9 @@ The following are few major competitors in the same field.
   Insilico Medicine: Clinical-stage biotech company in pharmaceutical R&D Offers novel target discovery, molecular structure generation, and clinical trial analysis
 
 ## Results
+There has been huge business impcat and this company is able to generate huge funding from various top and big pharma compaies. Though the metrics that they use is not publically visible but its evident that the following metrics used like The time taken to discover a drug and its efficiency, accuracy  and usage effectivness and they have been very sucessfull on those metric creteria. Genesis Therapeutics named as Outperformer among 15 other companies, including Recursion, Exscientia, and Insilico Medicine.
 
-* What has been the business impact of this company so far?
-There has been huge business impcat and this company is able to generate huge funding from various top and big pharma compaies
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-  The time taken to discover a drug and its efficiency, accuracy  and usage effectivness
-* How is your company performing relative to competitors in the same field?
 ## Recommendations
-
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 Most of these companies are focused on B2B and support the large coporations. I would adivse them to open up channels for individuals and specially the marigilized to get support directly.
 * Why do you think that offering this product or service would benefit the company?
