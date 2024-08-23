@@ -11,6 +11,7 @@ Founded in 2019 and headquartered in Burlingame, California
 * Who are the founders of the company?
 
 * How did the idea for the company (or project) come about?
+ The idea for Genesis Therapeutics originated from AI research conducted at Stanford University
 •	The company originated from Feinberg's Ph.D. research on AI and biophysics at Stanford University's Pande Lab.
 * How is the company funded? How much funding have they received?
 Genesis has raised over $280M in funding from top technology and biotech investors, including Andreessen Horowitz, Rock Springs Capital, T. Rowe Price, Fidelity, Radical Ventures, NVentures (NVIDIA's VC arm), BlackRock, and Menlo Ventures. The company has leveraged GEMS to build an internal pipeline with multiple programs against high-value targets, including data-poor and canonically undruggable targets where GEMS is uniquely advantaged. In addition, Genesis has two AI platform collaborations across a range of therapeutic areas: Eli Lilly
@@ -34,15 +35,21 @@ Integrates deep learning-based predictive models, molecular simulations, and mol
 * What field is the company in?
 Pharmacutical
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
+Artificial Intelligence (AI) and Machine Learning:
+AI is being used to accelerate drug discovery and development processes
+Applications include identifying drug targets, optimizing drug combinations, and improving manufacturing efficiency
+AI is enhancing data analytics capabilities for better decision-making
+Precision/Personalized Medicine:
+Growing focus on developing treatments tailored to specific patient groups based on genetic profiles
+Increasing number of newly approved drugs are labeled as personalized therapies
 * What are the other major companies in this field?
 
 ## Results
 
 * What has been the business impact of this company so far?
-
+There has been huge business impcat and this company is able to generate huge funding from various top and big pharma compaies
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
+  The time taken to discover a drug and its efficiency, accuracy  and usage effectivness
 * How is your company performing relative to competitors in the same field?
 Variational AI
 Healthcare company using AI to develop new small-molecule drugs
@@ -60,12 +67,14 @@ Offers novel target discovery, molecular structure generation, and clinical tria
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
+Most of these companies are focused on B2B and support the large coporations. I would adivse them to open up channels for individuals and specially the marigilized to get support directly.
 * Why do you think that offering this product or service would benefit the company?
-
+  The direct support to people and the society in genaral will bring more confidence in people to try their product.
 * What technologies would this additional product or service utilize?
-
+  It doesn't require any special technologies and infrasturcre instead the company just have to expand to individuals.
 * Why are these technologies appropriate for your solution?
+*   THe existing technologies will support the new idea with small increase in support personel.
+*   
 ## References
 https://genesistherapeutics.ai/
 https://www.businesswire.com/news/home/20230821419353/en/Genesis-Therapeutics-Closes-Oversubscribed-200-Million-Series-B
