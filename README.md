@@ -27,15 +27,8 @@ The following are few major competitors in the same field.
 There has been huge business impcat and this company is able to generate huge funding from various top and big pharma compaies. Though the metrics that they use is not publically visible but its evident that the following metrics used like The time taken to discover a drug and its efficiency, accuracy  and usage effectivness and they have been very sucessfull on those metric creteria. Genesis Therapeutics named as Outperformer among 15 other companies, including Recursion, Exscientia, and Insilico Medicine.
 
 ## Recommendations
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-Most of these companies are focused on B2B and support the large coporations. I would adivse them to open up channels for individuals and specially the marigilized to get support directly.
-* Why do you think that offering this product or service would benefit the company?
-  The direct support to people and the society in genaral will bring more confidence in people to try their product.
-* What technologies would this additional product or service utilize?
-  It doesn't require any special technologies and infrasturcre instead the company just have to expand to individuals.
-* Why are these technologies appropriate for your solution?
-*   THe existing technologies will support the new idea with small increase in support personel.
-*   
+Most of these companies are focused on B2B and support the large coporations. I would adivse them to open up channels for individuals and specially the marigilized to get support directly.Though this idea has been implemented by many companies but its not widely employed and they should expand it. The direct support to people and the society in genaral will bring more confidence in people to try their product. It doesn't require any special technologies and infrasturcre instead the company just have to expand to individuals.THe existing technologies will support the new idea with small increase in support personel.
+
 ## References
 https://genesistherapeutics.ai/
 https://www.businesswire.com/news/home/20230821419353/en/Genesis-Therapeutics-Closes-Oversubscribed-200-Million-Series-B
