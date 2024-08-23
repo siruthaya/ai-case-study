@@ -4,21 +4,15 @@
 # Genesis Therapeutics
 Genesis Therapeutics, is pioneering generative and predictive AI technologies to develop and commercialize breakthrough treatments for patients suffering from severe and devastating conditions. Genesis has created the industry's most advanced molecular AI platform – GEMS – which integrates deep learning and molecular simulations for property prediction, and language models for molecular generation. 
 Thecompany was found in 2019 by Evan Feinberg - Founder and CEO and headquartered in Burlingame, California.  The idea for Genesis Therapeutics originated from AI research conducted at Stanford University. The company originated from Feinberg's Ph.D.  on AI and biophysics at Stanford University's Pande Lab.
-Genesis has raised over $280M in funding from top technology and biotech investors, including Andreessen Horowitz, Rock Springs Capital, T. Rowe Price, Fidelity, Radical Ventures, NVentures (NVIDIA's VC arm), BlackRock, and Menlo Ventures. 
+Genesis has raised over $280M in funding from top technology and biotech investors.
 ## Business Activities
 The company has leveraged GEMS to build an internal pipeline with multiple programs against high-value targets, including data-poor and canonically undruggable targets where GEMS is uniquely advantaged. In addition, Genesis has two AI platform collaborations across a range of therapeutic areas.
 we've continued to pioneer state-of-the-art innovation in generative and predictive AI for small molecule drug discovery. Key proprietary innovations within our GEMS AI platform include Dynamic PotentialNet and our molecular generation engine. Dynamic PotentialNet integrates deep learning and molecular simulations to enable field-leading prediction of potency, selectivity, and ADMET. Our molecular generation engine allows Genesis scientists to search immense swaths of chemical space and offers significant advantages in addressing challenging and previously undruggable targets.
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+Some of their major customers include , including Andreessen Horowitz, Rock Springs Capital, T. Rowe Price, Fidelity, Radical Ventures, NVentures (NVIDIA's VC arm) BlackRock, and Menlo Ventures. These marketshare is so huge they were able to raise $280M from funding so easily.
+Provides AI-driven drug discovery services to other biotech and pharmaceutical companies. The company operates on a business-to-business (B2B) model, providing AI-driven drug discovery services to other companies in the pharmaceutical industry. The founder was part of the research with university, he had a very big adantage from the get go.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-Provides AI-driven drug discovery services to other biotech and pharmaceutical companies.
-The company operates on a business-to-business (B2B) model, providing AI-driven drug discovery services to other companies in the pharmaceutical industry
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-Uses 3D spatial graph modeling and advanced molecular simulation
-Focuses on exploring untapped chemical spaces and novel protein targets
-Accelerates hit identification through lead optimization and candidate selection
-Integrates deep learning-based predictive models, molecular simulations, and molecular generative AI
+The company Uses 3D spatial graph modeling and advanced molecular simulationx focuses on exploring untapped chemical spaces and novel protein targets
+as well as Accelerates hit identification through lead optimization and candidate selection. Integrates deep learning-based predictive models, molecular simulations, and molecular generative AI
 ## Landscape
 
 * What field is the company in?
