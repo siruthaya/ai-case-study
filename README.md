@@ -30,7 +30,7 @@ There has been huge business impcat and this company is able to generate huge fu
 Most of these companies are focused on B2B and support the large coporations. I would adivse them to open up channels for individuals and specially the marigilized to get support directly.Though this idea has been implemented by many companies but its not widely employed and they should expand it. The direct support to people and the society in genaral will bring more confidence in people to try their product. It doesn't require any special technologies and infrasturcre instead the company just have to expand to individuals.THe existing technologies will support the new idea with small increase in support personel.
 
 ## References
-(https://genesistherapeutics.ai)
+https://genesistherapeutics.ai
 https://www.businesswire.com/news/home/20230821419353/en/Genesis-Therapeutics-Closes-Oversubscribed-200-Million-Series-B
-(https://www.forbes.com/companies/genesis-therapeutics)
-(https://www.linkedin.com/company/genesistherapeutics)
+https://www.forbes.com/companies/genesis-therapeutics
+https://www.linkedin.com/company/genesistherapeutics
