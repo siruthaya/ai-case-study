@@ -3,16 +3,13 @@
 ## Overview and Origin
 
 # Genesis Therapeutics
-Genesis Therapeutics, is pioneering generative and predictive AI technologies to develop and commercialize breakthrough treatments for patients suffering from severe and devastating conditions.
-
-a company pioneering artificial intelligence (AI) technologies to create breakthrough medicines for patients with severe diseases, announced today that it has closed an oversubscribed $200 million round of Series B financing. The fresh capital will enable Genesis to evolve into a clinical stage company, further invest in its state-of-the-art AI platform, and ambitiously expand its discovery pipeline.
-* When was the company incorporated?
-Founded in 2019 and headquartered in Burlingame, California
+Genesis Therapeutics, is pioneering generative and predictive AI technologies to develop and commercialize breakthrough treatments for patients suffering from severe and devastating conditions. Genesis has created the industry's most advanced molecular AI platform – GEMS – which integrates deep learning and molecular simulations for property prediction, and language models for molecular generation. 
+Thecompany was found in 2019 by and headquartered in Burlingame, California
 * Who are the founders of the company?
 
 * How did the idea for the company (or project) come about?
  The idea for Genesis Therapeutics originated from AI research conducted at Stanford University
-•	The company originated from Feinberg's Ph.D. research on AI and biophysics at Stanford University's Pande Lab.
+•	The company originated from Feinberg's Ph.D.  on AI and biophysics at Stanford University's Pande Lab.
 * How is the company funded? How much funding have they received?
 Genesis has raised over $280M in funding from top technology and biotech investors, including Andreessen Horowitz, Rock Springs Capital, T. Rowe Price, Fidelity, Radical Ventures, NVentures (NVIDIA's VC arm), BlackRock, and Menlo Ventures. The company has leveraged GEMS to build an internal pipeline with multiple programs against high-value targets, including data-poor and canonically undruggable targets where GEMS is uniquely advantaged. In addition, Genesis has two AI platform collaborations across a range of therapeutic areas: Eli Lilly
 ## Business Activities
@@ -34,6 +31,7 @@ Integrates deep learning-based predictive models, molecular simulations, and mol
 
 * What field is the company in?
 Pharmacutical
+The company specilizes in Deep Learning, Drug Discovery, Artificial Intelligence, and Drug Development
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
 Artificial Intelligence (AI) and Machine Learning:
 AI is being used to accelerate drug discovery and development processes
